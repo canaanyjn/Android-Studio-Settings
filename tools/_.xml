@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="javac" description="java compile" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="javac -d . *" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/WorkSpace/AndroidStudioProjects/PureJavaProject/java/src/main/java" />
+    </exec>
+  </tool>
+</toolSet>
