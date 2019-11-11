@@ -368,6 +368,7 @@
   </action>
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="ctrl meta k" />
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift meta e" />
