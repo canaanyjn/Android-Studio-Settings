@@ -1,6 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".metadata" type="PLAIN_TEXT" />
       <mapping pattern="affw" type="PLAIN_TEXT" />
       <mapping pattern="xflutter" type="PLAIN_TEXT" />
@@ -13,6 +23,7 @@
       <mapping pattern="devtools" type="PLAIN_TEXT" />
       <mapping pattern="stdout" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="WORKBENCH@COMMENT_TEST" type="PLAIN_TEXT" />
       <mapping pattern="dart" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="tt" type="PLAIN_TEXT" />
