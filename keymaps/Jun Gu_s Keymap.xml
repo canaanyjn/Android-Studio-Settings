@@ -237,12 +237,17 @@
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="ExportToTextFile" />
+  <action id="ExtractFunction" />
+  <action id="ExtractMethod" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta alt m" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="meta f" />
