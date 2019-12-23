@@ -3,8 +3,9 @@
     <option name="addedPositive">
       <list>
         <option value="14:31:35.879 9596-9728/? E/FPS-BOOST: notifyQueue load error" />
-        <option value="otifyQueue load erro" />
         <option value="notifyQueue load error" />
+        <option value="otifyQueue load erro" />
+        <option value="seek, renderPositionUs:" />
       </list>
     </option>
   </component>
