@@ -5,6 +5,11 @@
   <DartCodeStyleSettings>
     <option name="DELEGATE_TO_DARTFMT" value="false" />
   </DartCodeStyleSettings>
+  <codeStyleSettings language="Dart">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
