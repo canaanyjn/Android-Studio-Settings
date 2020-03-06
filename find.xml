@@ -16,8 +16,8 @@
     <mask>*.mxml</mask>
     <mask>*.dart</mask>
     <mask>*.yaml</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
     <mask>*.kt</mask>
   </component>
 </application>
