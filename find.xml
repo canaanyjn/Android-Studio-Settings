@@ -5,6 +5,7 @@
     <option name="global" value="false" />
     <option name="FIND_SCOPE" value="selected" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.dart" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
