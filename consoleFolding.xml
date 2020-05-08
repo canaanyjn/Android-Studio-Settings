@@ -6,6 +6,7 @@
         <option value="notifyQueue load error" />
         <option value="otifyQueue load erro" />
         <option value="seek, renderPositionUs:" />
+        <option value="VirtualView node must not be the root node." />
       </list>
     </option>
   </component>
