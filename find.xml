@@ -4,8 +4,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="global" value="false" />
+    <option name="localRegularExpressions" value="true" />
     <option name="FIND_SCOPE" value="selected" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
